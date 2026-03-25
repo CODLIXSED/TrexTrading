@@ -1,0 +1,8 @@
+python-telegram-bot
+pandas
+numpy
+requests
+apscheduler
+scikit-learn
+joblib
+yfinance
